@@ -156,6 +156,7 @@
 		B52DBD7E1B90B8FF007A964F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = abel;
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				B52DBDA71B90B8FF007A964F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B52DBDA81B90B8FF007A964F /* Build configuration list for PBXNativeTarget "XiangqinTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				B52DBDAA1B90B8FF007A964F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
